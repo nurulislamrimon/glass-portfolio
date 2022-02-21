@@ -64,7 +64,8 @@ img{
 
 @media screen and (max-width:760px){
    .glass{
-       width: 80%;
+       width: 90%;
+       height: 90vh;
        flex-direction: column;
        font-size: .9em;
        align-items: center;
@@ -79,11 +80,11 @@ img{
     width: 5rem;
 }
    .circle1{    
-       bottom: 5%;
-       right: 3%;
+       bottom: 1%;
+       right: 1%;
    }
    .circle2{
-       top: 5%;
-       left: 3%;
+       top: 1%;
+       left: 1%;
    }
 }

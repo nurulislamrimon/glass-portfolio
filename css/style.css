@@ -9,7 +9,7 @@ a{
     color: black;
 }
 main{
-    height: 100vh;
+    min-height: 100vh;
     overflow: hidden;
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
     display: flex;
@@ -24,7 +24,7 @@ main{
     border-radius: 2rem;
     z-index: 1;
     backdrop-filter: blur(1rem);
-    padding: 30px;
+    padding-bottom: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
